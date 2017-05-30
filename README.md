@@ -1,4 +1,4 @@
-#MultiPendulumSimulator
+# MultiPendulumSimulator
 This is also called "Pendulum Wave"  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vwP4loVwxbY
